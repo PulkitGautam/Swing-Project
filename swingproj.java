@@ -1,5 +1,4 @@
 // By Pulkit Gautam 2004006
-// and ATUL KUMAR 2004038
 
 import java.awt.Color;
 import java.awt.Font;
